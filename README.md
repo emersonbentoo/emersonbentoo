@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python Jr`**
 
-Me chamo Emerson Bento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta . Sou apaixonado por tecnologia. Buscando a sonhada transição de carreira. 
+Me chamo Emerson Bento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 
 ---
 
